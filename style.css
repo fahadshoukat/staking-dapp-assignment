@@ -44,3 +44,52 @@ nav {
     color: green;
     font-weight: bold;
 }
+
+.active {
+background: #04009A;
+color: white;
+border-radius: 20px;
+}
+
+.d-btn {
+    border-radius: 20px;
+    background: white;
+}
+
+.danger {
+    color: red;
+    border: 1px solid red;
+    padding: 12px;
+    margin-top: 16px;
+    border-radius: 12px;
+}
+
+.input {
+    border: 1px solid transparent;
+    background: #FFFFFF;
+}
+
+.form-control {
+    border: none;
+}
+
+.btn {
+    border-radius: 24px !important;
+}
+
+.max-amount {
+    background: #04009A;
+    color: white;
+}
+
+.summary {
+    background: #FFFFFF;
+    padding: 24px;
+}
+
+.approve-btn {
+    background: #04009A;
+    color: #FFFFFF;
+    width: 70%;
+    margin: 16px 72px;
+}
