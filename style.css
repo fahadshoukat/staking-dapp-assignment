@@ -1,0 +1,28 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+.nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-b1, .nav-b2 {
+    border: 1px solid gray;
+    border-radius: 24px;
+    padding: 2px 8px;
+    margin: 0px 8px;
+}
+
+.nav-b2 {
+    background: #04009A;
+    color: white;
+}
+
+.nav-b2 button {
+    color: white;
+}
